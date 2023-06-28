@@ -1,6 +1,6 @@
 ![PowerBI-Banner-1100x200](https://github.com/Tadeshee/Power_BI/assets/124716537/e15a2619-97ff-4a7d-b672-6542a899963f)
 
-# Project Title: Activities Analysis: Power BI Project 📊🔍
+# Project Title: Activities Analysis A Power BI Project 📊🔍
 
 The project's objective is to utilize real simulated dataset files representing various aspects of a company's activities to create a Power BI Dashboard. The goal is to demonstrate the ability to clean, analyze, transform, model, visualize, and extract insights driving actionable recommendations using Power BI.
 
