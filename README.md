@@ -5,6 +5,16 @@
 The project's objective is to utilize real simulated dataset files representing various aspects of a company's activities to create a Power BI Dashboard. The goal is to demonstrate the ability to clean, analyze, transform, model, visualize, and extract insights driving actionable recommendations using Power BI.
 
 
+## Technologies Used 💻🔧
+Microsoft Power BI
+
+Microsoft Excel
+
+Microsoft Power Query
+
+DAX
+
+
 ## Data Sources 📂🔢
 The project involves three CSV files: '**clients**', '**employees**', and '**shifts**', each containing 
 specific data related to clients, employees, and employee shifts, respectively.
@@ -62,7 +72,7 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 
 ## Installation Instructions ⚙️📥
-Clone the repository: git clone https://github.com/Tadeshee/project-name.git
+Clone the repository: git clone https://github.com/YOUR-USERNAME/project-name.git
 
 Install Power BI Desktop from the official website: Power BI Desktop
 
@@ -71,14 +81,8 @@ Open Power BI Desktop and navigate to "Open" > "File" and select the project fil
 Explore the dashboard, interact with visualizations, and gain insights from the data. 📊🔍
 
 
-## Technologies Used 💻🔧
-Microsoft Power BI
-
-Microsoft Excel
-
-Microsoft Power Query
-
-DAX
+## Deliverables 📦🎁 
+The main deliverable of this project is a Power BI Dashboard that effectively presents the analyzed data and provides meaningful insights to drive actionable recommendations for each of the three aspects: clients, employees, and shifts. The dashboard includes visually appealing and interactive visualizations, such as charts, graphs, and tables, to showcase the identified patterns, demographics, trends, and optimization opportunities.
 
 
 ## Contributions 🤝🌟
