@@ -71,7 +71,7 @@ This repository includes the following features for effective data analysis and 
 This repository is designed to facilitate efficient data analysis workflows, from data exploration and cleaning to modelling, transformation, and visualization, resulting in impactful and insightful Power BI dashboards.
 
 
-## Snapshot
+## Snapshot 📸📸
 ![gifmaker_me](https://github.com/Tadeshee/Power_BI/assets/124716537/e1d0bebf-5f1c-44e2-8ed7-eba129d0c1ff)
 
 
