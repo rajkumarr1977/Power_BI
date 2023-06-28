@@ -91,4 +91,4 @@ The main deliverable of this project is a Power BI Dashboard that effectively pr
 ## Contributions 🤝🌟
 I welcome contributions to enhance this Power BI project. If you have any ideas, bug fixes, or feature suggestions, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better! 🚀🎉
 
-Thank you for your interest in this project. Enjoy exploring the Power BI Activities Analysis Dashboard! 💖💻
+Thanks for your interest in this project. Enjoy exploring the Power BI Activities Analysis Dashboard! 💖💻
