@@ -4,6 +4,7 @@
 
 The project's objective is to utilize real simulated dataset files representing various aspects of a company's activities to create a Power BI Dashboard. The goal is to demonstrate the ability to clean, analyze, transform, model, visualize, and extract insights driving actionable recommendations using Power BI.
 
+
 ## Data Sources 📂🔢
 The project involves three CSV files: '**clients**', '**employees**', and '**shifts**', each containing 
 specific data related to clients, employees, and employee shifts, respectively.
