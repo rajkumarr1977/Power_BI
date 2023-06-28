@@ -5,16 +5,6 @@
 The project's objective is to utilize real simulated dataset files representing various aspects of a company's activities to create a Power BI Dashboard. The goal is to demonstrate the ability to clean, analyze, transform, model, visualize, and extract insights driving actionable recommendations using Power BI.
 
 
-## Technologies Used 💻🔧
-Microsoft Power BI
-
-Microsoft Excel
-
-Microsoft Power Query
-
-DAX
-
-
 ## Data Sources 📂🔢
 The project involves three CSV files: '**clients**', '**employees**', and '**shifts**', each containing 
 specific data related to clients, employees, and employee shifts, respectively.
@@ -49,6 +39,16 @@ specific data related to clients, employees, and employee shifts, respectively.
 These CSV files serve as the primary data sources for the activities analysis Power BI  project. They are used for data analysis, visualization, and deriving insights.
 
 
+## Installation Instructions ⚙️📥
+Clone the repository: git clone https://github.com/YOUR-USERNAME/project-name.git
+
+Install Power BI Desktop from the official website: Power BI Desktop
+
+Open Power BI Desktop and navigate to "Open" > "File" and select the project file (.pbix) from the cloned repository.
+
+Explore the dashboard, interact with visualizations, and gain insights from the data. 📊🔍
+
+
 ## Features 🛠️📊
 This repository includes the following features for effective data analysis and visualization using Power BI:
 
@@ -74,15 +74,14 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 ## Snapshot 📸📸
 ![gifmaker_me](https://github.com/Tadeshee/Power_BI/assets/124716537/e1d0bebf-5f1c-44e2-8ed7-eba129d0c1ff)
 
+## Technologies Used 💻🔧
+Microsoft Power BI
 
-## Installation Instructions ⚙️📥
-Clone the repository: git clone https://github.com/YOUR-USERNAME/project-name.git
+Microsoft Excel
 
-Install Power BI Desktop from the official website: Power BI Desktop
+Microsoft Power Query
 
-Open Power BI Desktop and navigate to "Open" > "File" and select the project file (.pbix) from the cloned repository.
-
-Explore the dashboard, interact with visualizations, and gain insights from the data. 📊🔍
+DAX
 
 
 ## Deliverables 📦🎁 
