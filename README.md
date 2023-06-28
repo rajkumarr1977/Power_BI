@@ -58,7 +58,7 @@ This repository includes the following features for effective data analysis and 
 
 **Data Modelling**: Build a robust data model that represents the relationships between different data tables and enables efficient data analysis and visualization. 🗂️🔗
 
-**Data Transformation**: Apply data transformation techniques using DAX including  filtering, grouping, and aggregation to reshape and prepare the data for analysis. 🔄🔀
+**Data Transformation**: Apply data transformation techniques using DAX including filtering, grouping, and aggregation to reshape and prepare the data for analysis. 🔄🔀
 
 **Visualization Design**: Design visually appealing and informative visualizations using a wide range of chart types, colours, and formatting options to effectively communicate the insights hidden in the data. 🎨📊
 
