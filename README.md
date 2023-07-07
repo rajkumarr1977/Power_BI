@@ -72,7 +72,6 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 
 ## Snapshot 📸📸
-![gifmaker_me](https://github.com/Tadeshee/Power_BI/assets/124716537/e1d0bebf-5f1c-44e2-8ed7-eba129d0c1ff)
 ![Power BI](https://github.com/Tadeshee/Power_BI/assets/124716537/cc06ec6f-a0b4-4e30-a6f5-0b382c3003e2)
 
 
