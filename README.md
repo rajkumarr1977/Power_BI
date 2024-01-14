@@ -1,4 +1,3 @@
-![PowerBI-Banner-1100x200](https://github.com/Tadeshee/Power_BI/assets/124716537/e15a2619-97ff-4a7d-b672-6542a899963f)
 
 # Project Title: Activities Analysis A Power BI Project 📊
 
@@ -71,8 +70,7 @@ This repository includes the following features for effective data analysis and 
 This repository is designed to facilitate efficient data analysis workflows, from data exploration and cleaning to modelling, transformation, and visualization, resulting in impactful and insightful Power BI dashboards.
 
 
-## Snapshot 📸📸
-![Power BI](https://github.com/Tadeshee/Power_BI/assets/124716537/cc06ec6f-a0b4-4e30-a6f5-0b382c3003e2)
+
 
 
 ## Technologies Used 💻🔧
